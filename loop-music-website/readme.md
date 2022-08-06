@@ -1,6 +1,6 @@
-# Clipboard Website
+# Loopstudios Website
 
-Clipboard landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
+Loopstudios landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
 
 ## Usage
 
@@ -16,4 +16,4 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](images/clipboard.png)
+![Alt text](images/loopstudios.png)
